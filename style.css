@@ -1,0 +1,47 @@
+
+@font-face {
+    font-family: trf;
+    src: url(magical_night_3/Magical\ Night.ttf);
+}
+h1{
+    font-family: trf;
+    font-size: 50px;
+    margin-top: 10%;
+    color: #FF8E8F;
+    text-shadow: 10px 4px 10px rgb(231, 218, 218);
+}
+
+.container{
+
+    margin-left: 10%;
+}
+
+ul{
+    list-style: none;
+}
+
+body{
+    background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTM0LWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:0px -150px;
+}
+
+input{
+    margin-left: 20px;
+}
+
+input, button{
+
+    padding: 10px;
+}
+
+
+li button{
+    margin-left: 60px;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    
+}
